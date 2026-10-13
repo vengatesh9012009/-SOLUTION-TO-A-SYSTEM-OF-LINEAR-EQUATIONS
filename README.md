@@ -24,7 +24,8 @@ End the program
 ### sol=np.linalg.matrix_rank(A)
 ### print(sol)
 
-## Output:<img width="788" height="572" alt="{A688B3F1-E785-4330-842F-28511FCDE8AB}" src="https://github.com/user-attachments/assets/b4d6b4cc-2967-47c5-b1c2-f90e891ad0ea" /><img width="959" height="519" alt="{1AD76539-6C34-4402-8D95-372C01E79179}" src="https://github.com/user-attachments/assets/ee2a529e-3a85-45d6-9dda-3af139e432c7" />
+## Output:
+<img width="400" height="400" alt="{A688B3F1-E785-4330-842F-28511FCDE8AB}" src="https://github.com/user-attachments/assets/b4d6b4cc-2967-47c5-b1c2-f90e891ad0ea" /><img width="400" height="400" alt="{1AD76539-6C34-4402-8D95-372C01E79179}" src="https://github.com/user-attachments/assets/ee2a529e-3a85-45d6-9dda-3af139e432c7" />
 
 
 ## Result: 

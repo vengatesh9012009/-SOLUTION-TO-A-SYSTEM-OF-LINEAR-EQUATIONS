@@ -9,7 +9,7 @@ To write a python program to find a solution to a system of linear equations.
 Import the numpy module to use the built-in functions for calculation
 ### Step 2: Import the required packages
 Prepare the lists from each linear equations and assign in np.array()
-### Step 3: Find the solutions
+### Step 3:Using the np.linalg.solve().Find the solutions
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: print the output 
 End the program

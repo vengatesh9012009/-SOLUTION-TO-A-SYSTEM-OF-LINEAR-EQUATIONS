@@ -9,24 +9,28 @@ To write a python program to find a solution to a system of linear equations.
 Import the numpy module to use the built-in functions for calculation
 ### Step 2: Import the required packages
 Prepare the lists from each linear equations and assign in np.array()
-### Step 3:  
+### Step 3: Find the solutions
 Using the np.linalg.solve(), we can find the solutions.
-### Step 4: print tne output 
+### Step 4: print the output 
 End the program
 ## Program:
-### Program to find the rank of a matrix.
-### Developed by:VENGATESH S
+### Program to find the solution for the given linear equations.
+### Developed by: VENGATESH S
 ### RegisterNumber:26018307
-### import os
+### import os 
 ### os.environ["OPENBLAS_NUM_THREADS"]="1"
 ### import numpy as np
-### A=np.array([[1,2,3],[3,6,9]])
-### sol=np.linalg.matrix_rank(A)
-### print(sol)
+### A=np.array([[1,3],[2,5]])
+### B=np.array([5,-3])
+### C=np.linalg.solve(A,B)
+### print(C)
+
 
 ## Output:
-   <img width="400" height="400" alt="{A688B3F1-E785-4330-842F-28511FCDE8AB}" src="https://github.com/user-attachments/assets/b4d6b4cc-2967-47c5-b1c2-f90e891ad0ea" />
-   <img width="400" height="400" alt="{1AD76539-6C34-4402-8D95-372C01E79179}" src="https://github.com/user-attachments/assets/ee2a529e-3a85-45d6-9dda-3af139e432c7" />
+  <img width="400" height="400" alt="{0558C6EA-734A-4421-9B27-492E915F368C}" src="https://github.com/user-attachments/assets/0a3c8508-a884-47f8-9167-e40f2c50976a" />
+  <img width="400" height="400" alt="{14A83CA7-83AB-4EB5-ADCA-365A57DB05FA}" src="https://github.com/user-attachments/assets/598172f6-152f-4c58-8326-9b750552b907" />
+
+
 
 
 ## Result: 
